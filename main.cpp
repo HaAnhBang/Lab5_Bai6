@@ -2,6 +2,9 @@
 #include <fstream>
 #include <iomanip>
 #include "KhachHang.h"
+#include "KhachHangA.h"
+#include "KhachHangB.h"
+#include "KhachHangC.h"
 using namespace std;
 
 int main()
